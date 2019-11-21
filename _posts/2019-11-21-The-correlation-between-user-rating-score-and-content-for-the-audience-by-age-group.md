@@ -1,4 +1,4 @@
-The correlation between user rating score and content for the audience by age group.
+<h2>The correlation between user rating score and content for the audience by age group.</h2>
 
 Most of you, if not all, have viewed content on a variety of platforms. Many like to view content in an assortment of ways. Some may consider an old fashion show, some a new show or a trending show online. Or some may watch a film, or binge-watch one's favorite show. What leads us to discuss one of the most popular platforms Netflix. This platform in which in part has changed the new status quo that has changed the way we view content. Either on the go or the comfort of our home. It has made a subtle invitation to our lives.
 
