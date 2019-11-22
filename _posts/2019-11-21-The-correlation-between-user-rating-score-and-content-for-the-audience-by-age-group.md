@@ -1,6 +1,6 @@
 ---
 title: The correlation between user rating score and content for the audience by age group.
-subtitle: Netflix Shows Data Frame
+subtitle: 
 image: img/word_cloud_netflix_jorge_a_lima.png
 ---
 Most of you have viewed content on a variety of platforms in an assortment of ways. Some may consider an old fashioned show, others a new show or a trending show online. Some may choose to watch a film, or binge-watch one’s favorite show. This is what leads us to discuss one of the most popular platforms: Netflix. A platform that has shaped the new status quo and changed the way we view content. Either on the go, or the comfort of our living room, this platform in has made a subtle invitation into our lives.
