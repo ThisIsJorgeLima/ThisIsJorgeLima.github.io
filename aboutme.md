@@ -1,16 +1,17 @@
----
-layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
----
 
-My name is Inigo Montoya. I have the following qualities:
+My name is **Jorge A. Lima**. I go by ***George***. My background is in motion pictures, [photography](https://jrgl.im), advertising, B2C growth and content.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+As industries are being disrupted continuously year in and year out. I wanted to be in a better position utilizing my current skill set and take charge of the reins of this fast-growing tech sector by becoming part of history and this second wave of the industrial revolution.
 
-What else do you need?
+My current status I'm studying ML Engineering, AI and Data Science at [Lambda School.](https://lambdaschool.com/)
 
-### my history
+### want to get in touch?
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+*   email: jorgelima@gmx.us
+*   Linkedin: [/jorgelima](https://linkedin.com/in/jorgelima)
+*   Twitter: [@ThisIsJorgeLima](http://twitter.com/thisisjorgelima)
+*   Instagram: [@ThisIsJorgeLima](https://www.instagram.com/thisisjorgelima/)
+*   Facebook: [@ThisIsJorgeLima](https://www.facebook.com/ThisIsJorgeLima/)
+
+
+
