@@ -7,7 +7,7 @@ My current status: I'm studying ML Engineering, AI and Data Science at [Lambda S
 
 ### want to get in touch?
 
-*   email: href=mailto:<Jorge A. Lima> jorgelima@gmx.us? 
+*   email: <a href="mailto:<Jorge A. Lima> jorgelima@gmx.us? 
 *   Linkedin: [/jorgelima](https://linkedin.com/in/jorgelima)
 *   Twitter: [@ThisIsJorgeLima](http://twitter.com/thisisjorgelima)
 *   Instagram: [@ThisIsJorgeLima](https://www.instagram.com/thisisjorgelima/)
