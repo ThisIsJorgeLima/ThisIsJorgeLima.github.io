@@ -55,3 +55,8 @@ I utilized a word cloud to see which titles within the dataset are most popular.
 
 Working with this dataset with a past career in motion pictures was fascinating. To learn the skills I have within a few week’s time I was able to dissect, articulate, extract and feature engineer this data set. From working on this project, it makes sense how studios select which projects move forward and particularly how studios stick with these models to make it easier to predict and help the selection process. For a platform such as Netflix, the amount of content in their library allows audiences to view content a La carte, leaving their subscribers tuned in and pleased.
 
+## You can applaud my story on Medium:
+![Medium Link](https://medium.com/@ThisIsJorgeLima/the-correlation-between-user-rating-score-and-content-for-the-audience-by-age-group-4539a9f230a7)
+
+### Here is a link to my code:
+![Code Link](https://colab.research.google.com/drive/1jzKf7goCdi4RGpqWJfwaNYY8JI2gV2sH)
