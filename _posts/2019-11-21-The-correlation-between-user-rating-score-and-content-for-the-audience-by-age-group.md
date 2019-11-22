@@ -59,9 +59,8 @@ Working with this dataset with a past career in motion pictures was fascinating.
                                                  ...
                                                  
                                                  
-### You can applaud my story on Medium:
+### You can applaud my story on Medium here:
 [Medium](https://medium.com/@ThisIsJorgeLima/the-correlation-between-user-rating-score-and-content-for-the-audience-by-age-group-4539a9f230a7)
-
 
 ### Here is a link to my code:
 [Code](https://colab.research.google.com/drive/1jzKf7goCdi4RGpqWJfwaNYY8JI2gV2sH)
