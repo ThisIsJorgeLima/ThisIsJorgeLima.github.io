@@ -104,7 +104,7 @@ url-pretty: "ThisIsJorgeLima.com"  # eg. "deanattali.com/beautiful-jekyll"
 google_analytics: UA-153165732-1
 
 # Google Tag Manager ID
-#gtm: ""
+gtm:GTM-5976KX8
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
@@ -140,7 +140,7 @@ staticman:
 # --- Misc --- #
 
 # Facebook App ID
-# fb_app_id: ""
+fb_app_id: 336839452297
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
