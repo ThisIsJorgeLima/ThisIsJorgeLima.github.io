@@ -259,7 +259,6 @@ Github: ThisIsJorgeLima
 
 **Resources:**
 
-
 MovieLens Latest Datasets: https://grouplens.org/datasets/movielens/latest/
 k -nearest neighbors algorithm: https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
 A Gentle Introduction to Sparse Matrices for Machine Learning: https://machinelearningmastery.com/sparse-matrices-for-machine-learning/
