@@ -44,18 +44,18 @@ First, I wanted to break down the correlations between awards, by quarterly rele
 
 The top three awards before capturing the Oscar we analyzed were BAFTA, Golden Globes, and the Guild.
 
-![alt text](https://https://miro.medium.com/max/1366/1*aljP-agHt7wTeOAVefRcUA.png)
+![alt text](https://miro.medium.com/max/1366/1*aljP-agHt7wTeOAVefRcUA.png)
 
 When viewing this chart, one can lean strongly that the Golden Globes may be a strong suit when predicting the Oscars. Yet let's see how strongly this holds up as we continue our analysis.
 
 The next interest was the quarterly release dates and why this may play a factor.
-![alt text](https://https://miro.medium.com/max/1366/1*SjoE6hs8dcMvoxd-QR7ydQ.png)
+![alt text](https://miro.medium.com/max/1366/1*SjoE6hs8dcMvoxd-QR7ydQ.png)
 
 In this count plot, one can see the benefits of releasing a motion picture in Q4 and Q1, which makes a lot of sense. It's close to award season, and this helps during the campaigning process while it's still fresh in regards to the Academy.
 
 Most of the films that go on to win are "R" rated films.
 
-![alt text](https:https://miro.medium.com/max/1366/1*JrIXVKcBkixm5g6HvkDjvw.png)
+![alt text](https://miro.medium.com/max/1366/1*JrIXVKcBkixm5g6HvkDjvw.png)
 
 Running time for an unbeaten run to snag an award is a 123-minute motion picture.
 
