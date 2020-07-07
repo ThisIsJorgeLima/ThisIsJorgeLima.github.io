@@ -71,12 +71,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
- #email: "jorgelima@gmx.us"
- #facebook: ThisIsJorgeLima
- #github: ThisIsJorgeLima
- #twitter: ThisIsJorgeLima
+  email: "jorgelima@gmx.us"
+  facebook: ThisIsJorgeLima
+  github: ThisIsJorgeLima
+  twitter: ThisIsJorgeLima
 #  reddit: yourname
- #linkedin: jorgelima
+  linkedin: jorgelima
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
  #snapchat: ThisIsJorgeLima 
@@ -92,7 +92,7 @@ social-network-links:
 share-links-active:
   rss: true
   facebook: true
-  email: ture
+  email: true
   twitter: true
   linkedin: true
   stackoverflow: false
