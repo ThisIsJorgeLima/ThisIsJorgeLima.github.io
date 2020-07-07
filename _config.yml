@@ -22,9 +22,9 @@ url: "https://ThisIsJorgeLima.com"
 navbar-links:
   Home: "home"
   Podcast: "https://mailchi.mp/db9640dec7a5/a-month-of-saturdays"
-  Resources:
-    - Podcast: "https://mailchi.mp/db9640dec7a5/a-month-of-saturdays"
-    - Linkedin: "https://www.linkedin.com/in/jorgelima"
+  # Resources:
+   # - Podcast: "https://mailchi.mp/db9640dec7a5/a-month-of-saturdays"
+   # - Linkedin: "https://www.linkedin.com/in/jorgelima"
   About Me: "aboutme"
   Social: "https://linktr.ee/thisisjorgelima"
 
