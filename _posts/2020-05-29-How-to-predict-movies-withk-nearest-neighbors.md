@@ -244,28 +244,37 @@ from utils import clear_terminal #. where utils add [filename].
 Add the code above and you’ll have an interacting interface to search for your films. If you’d like to learn more about how to customize and [print colors](https://www.geeksforgeeks.org/print-colors-python-terminal/) in Python terminal here’s a guide.
 
 In conclusion, coming from a film background and true film buff this was a fun build. It’s not perfect and does occasionally make errors. I may need to modify the FuzzyWuzzy and do a straight-up Natual Language Processing, to help implement get us better analysis. Which will include a corpus of text using text visualizations of token frequency in regards to our movie titles.
-That will be for another blog another day. Please make sure to follow me on:
+That will be for another blog another day. ***Please make sure to follow me on:***
 
-[Linkedin](https://www.linkedin.com/in/jorgelima/
-[Twitter](https://www.twitter.com/thisisjorgelima/
+[Linkedin](https://www.linkedin.com/in/jorgelima/)
+
+[Twitter](https://www.twitter.com/thisisjorgelima/)
+
+[Podcast](https://mailchi.mp/db9640dec7a5/a-month-of-saturdays)
+
 [Instagram](https://www.instagram.com/thisisjorgelima/)
-[Facebook](https://www.facebook.com/thisisjorgelima/
-[Website](https://www.thisisjorgelima.com/)
-[Github](https://www.github.com/thisisjorgelima/
 
+[Facebook](https://www.facebook.com/thisisjorgelima/)
+
+[Website](https://www.thisisjorgelima.com/)
+
+[Github](https://www.github.com/thisisjorgelima/)
+
+### You can applaud my story on Medium here:
+[Medium](https://medium.com/@ThisIsJorgeLima/how-to-predict-movies-with-k-nearest-neighbors-knn-714aaaf12791)
 
 [**GitHub Repo.**](https://github.com/ThisIsJorgeLima/CS-Data-Science-Build-Week-1/tree/jorge-lima)
 
 **Resources:**
 
-[MovieLens Latest Datasets](https://grouplens.org/datasets/movielens/latest/)
-[k -nearest neighbors algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
-[A Gentle Introduction to Sparse Matrices for Machine Learning](https://machinelearningmastery.com/sparse-matrices-for-machine-learning/)
-[Here’s How to Build a Pivot Table using Pandas in Python](https://www.analyticsvidhya.com/blog/2020/03/pivot-table-pandas-python/)
-[Building a movie recommendation system K-Nearest Neighbors Machine Learning](https://www.youtube.com/watch?v=4Ws0oPH350U)
-[Machine Learning Basics with the K-Nearest Neighbors Algorithm](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
-[Collaborative filtering](https://en.wikipedia.org/wiki/Collaborative_filtering)
-[Prototyping a Recommender System Step by Step Part 1: KNN Item-Based Collaborative Filtering:](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
-[Fuzzy String Matching in Python](https://www.datacamp.com/community/tutorials/fuzzy-string-python)
-[Reverse Mapping and Unflattening](https://docs.automapper.org/en/stable/Reverse-Mapping-and-Unflattening.html)
+[MovieLens Latest Datasets](https://grouplens.org/datasets/movielens/latest/),
+[k -nearest neighbors algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm),
+[A Gentle Introduction to Sparse Matrices for Machine Learning](https://machinelearningmastery.com/sparse-matrices-for-machine-learning/),
+[Here’s How to Build a Pivot Table using Pandas in Python](https://www.analyticsvidhya.com/blog/2020/03/pivot-table-pandas-python/),
+[Building a movie recommendation system K-Nearest Neighbors Machine Learning](https://www.youtube.com/watch?v=4Ws0oPH350U),
+[Machine Learning Basics with the K-Nearest Neighbors Algorithm](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761),
+[Collaborative filtering](https://en.wikipedia.org/wiki/Collaborative_filtering),
+[Prototyping a Recommender System Step by Step Part 1: KNN Item-Based Collaborative Filtering:](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761),
+[Fuzzy String Matching in Python](https://www.datacamp.com/community/tutorials/fuzzy-string-python),
+[Reverse Mapping and Unflattening](https://docs.automapper.org/en/stable/Reverse-Mapping-and-Unflattening.html),
 [Comprehensive Guide to building a Recommendation Engine from scratch (in Python)](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/?#)
