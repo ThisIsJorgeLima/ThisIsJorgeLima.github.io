@@ -246,21 +246,15 @@ Add the code above and you’ll have an interacting interface to search for your
 In conclusion, coming from a film background and true film buff this was a fun build. It’s not perfect and does occasionally make errors. I may need to modify the FuzzyWuzzy and do a straight-up Natual Language Processing, to help implement get us better analysis. Which will include a corpus of text using text visualizations of token frequency in regards to our movie titles.
 That will be for another blog another day. 
 
-***Please make sure to follow me on:***
+### want to get in touch?
 
-[Linkedin](https://www.linkedin.com/in/jorgelima/)
-
-[Twitter](https://www.twitter.com/thisisjorgelima/)
-
-[Podcast](https://mailchi.mp/db9640dec7a5/a-month-of-saturdays)
-
-[Instagram](https://www.instagram.com/thisisjorgelima/)
-
-[Facebook](https://www.facebook.com/thisisjorgelima/)
-
-[Website](https://www.thisisjorgelima.com/)
-
-[Github](https://www.github.com/thisisjorgelima/)
+*  [Linkedin](https://www.linkedin.com/in/jorgelima/)
+*  [Twitter](https://www.twitter.com/thisisjorgelima/)
+*  [Podcast](https://mailchi.mp/db9640dec7a5/a-month-of-saturdays)
+*  [Instagram](https://www.instagram.com/thisisjorgelima/)
+*  [Facebook](https://www.facebook.com/thisisjorgelima/)
+*  [Website](https://www.thisisjorgelima.com/)
+*  [Github](https://www.github.com/thisisjorgelima/)
 
 ### You can applaud my story on Medium here:
 [Medium](https://medium.com/@ThisIsJorgeLima/how-to-predict-movies-with-k-nearest-neighbors-knn-714aaaf12791)
