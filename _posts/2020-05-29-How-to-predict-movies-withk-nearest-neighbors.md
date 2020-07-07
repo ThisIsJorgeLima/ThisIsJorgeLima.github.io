@@ -244,7 +244,9 @@ from utils import clear_terminal #. where utils add [filename].
 Add the code above and you’ll have an interacting interface to search for your films. If you’d like to learn more about how to customize and [print colors](https://www.geeksforgeeks.org/print-colors-python-terminal/) in Python terminal here’s a guide.
 
 In conclusion, coming from a film background and true film buff this was a fun build. It’s not perfect and does occasionally make errors. I may need to modify the FuzzyWuzzy and do a straight-up Natual Language Processing, to help implement get us better analysis. Which will include a corpus of text using text visualizations of token frequency in regards to our movie titles.
-That will be for another blog another day. ***Please make sure to follow me on:***
+That will be for another blog another day. 
+
+***Please make sure to follow me on:***
 
 [Linkedin](https://www.linkedin.com/in/jorgelima/)
 
