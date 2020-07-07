@@ -116,6 +116,21 @@ In closing, I had a blast working on this project, and I wish I had more time to
 
 Tune in on February 9, 2020, 6:30 PM EST
 
+***Please make sure to follow me***
+
+[Linkedin](https://www.linkedin.com/in/jorgelima/)
+
+[Twitter](https://www.twitter.com/thisisjorgelima/)
+
+[Podcast](https://mailchi.mp/db9640dec7a5/a-month-of-saturdays)
+
+[Instagram](https://www.instagram.com/thisisjorgelima/)
+
+[Facebook](https://www.facebook.com/thisisjorgelima/)
+
+[Website](https://www.thisisjorgelima.com/)
+
+[Github](https://www.github.com/thisisjorgelima/)
 
 ### You can applaud my story on Medium here:
 [Medium](https://medium.com/@ThisIsJorgeLima/and-the-award-goes-to-f1896ba2efbe)
