@@ -116,7 +116,7 @@ In closing, I had a blast working on this project, and I wish I had more time to
 
 Tune in on February 9, 2020, 6:30 PM EST
 
-***Please make sure to follow me***
+***Please make sure to follow me:***
 
 [Linkedin](https://www.linkedin.com/in/jorgelima/)
 
