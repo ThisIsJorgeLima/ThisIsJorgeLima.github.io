@@ -25,9 +25,9 @@ navbar-links:
   # Resources:
    # - Podcast: "https://mailchi.mp/db9640dec7a5/a-month-of-saturdays"
    # - Linkedin: "https://www.linkedin.com/in/jorgelima"
-  About Me / Contact: "aboutme"
+  About Me: "aboutme"
   Social: "https://linktr.ee/thisisjorgelima"
-nav-search: "search"
+# nav-search: "search"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -67,7 +67,7 @@ author:
   email: "jorgelima@gmx.us"
   twitter: thisisjorgelima
   github: thisisjorgelima
-  calendly: "https://calendly.com/jorgelima/15min?back=1&month=2020-07"
+  # calendly: "https://calendly.com/jorgelima/15min?back=1&month=2020-07"
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -88,7 +88,7 @@ social-network-links:
 #  youtube: user/deanat78
 #  spotify: yourname
   telephone: 561-635-7415
-  calendly: "https://calendly.com/jorgelima/15min?back=1&month=2020-07"
+ # calendly: "https://calendly.com/jorgelima/15min?back=1&month=2020-07"
 
 #  steam: deanat78
 #  twitch: yourname
@@ -96,7 +96,7 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  rss: false
+  rss: true
   twitter: true
   facebook: true
   linkedin: true
@@ -130,13 +130,13 @@ gtm: GTM-5976KX8
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "ThisIsJorgeLima"
+# disqus: "ThisIsJorgeLima"
 
 # If you want to use JustComments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
 
 # To use Facebook Comments, fill in a Facebook App ID
- # fb_comment_id: "336839452297"
+fb_comment_id: "336839452297"
 
 # To use Staticman comments, fill in repository, branch, and endpoint
 staticman:
@@ -179,25 +179,6 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true  # add comments to all blog posts 		
-      show-share: true # add sharing buttons to all blog posts		
-      show-subscribe: true # add subscribe email to all blog posts
-      addthis-plugin: true
-      carbonads: true
-      datacampcourse: true
-  -
-    scope:
-      path: "" # all files
-    values:
-      layout: "page"
-      show-avatar: true
 # defaults:
 #   -
 #     scope:
@@ -205,14 +186,33 @@ defaults:
 #       type: "posts"
 #     values:
 #       layout: "post"
-#       comments: true  # add comments to all blog posts
-#       social-share: true # add social media sharing buttons to all blog posts
+#       comments: true  # add comments to all blog posts 		
+#       show-share: true # add sharing buttons to all blog posts		
+#       show-subscribe: true # add subscribe email to all blog posts
+#       addthis-plugin: true
+#       carbonads: true
+#       datacampcourse: true
 #   -
 #     scope:
 #       path: "" # all files
 #     values:
 #       layout: "page"
 #       show-avatar: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "page"
+      show-avatar: true
 
 # Use tags index page and make tags on each post clickable
 link-tags: true
