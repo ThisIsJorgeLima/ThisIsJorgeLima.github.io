@@ -22,6 +22,7 @@ My current status: I've currently finished my track studying ML Engineering, AI,
 Thank you, and please [subscribe to my podcast today!](https://mailchi.mp/db9640dec7a5/a-month-of-saturdays)
 
 Kind Regards,
+
 **Jorge A. Lima**
 
 ### want to get in touch?
