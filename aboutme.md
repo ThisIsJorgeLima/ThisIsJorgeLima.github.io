@@ -9,7 +9,7 @@ Previously, I worked as a [filmmaker](https://www.imdb.com/name/nm3147857/?ref_=
 
 My goal is to share my failures and successes via blogging and interviewing successful data scientists, entrepreneurs, creative and business individuals via my podcast a month of Saturdays. 
 
-Why do you ask such a different path? Well, I have a beautiful family that needs my support and has had my support over the years, and I want to position myself with a sound career, something I can grow and continue nurture my curiosity. 
+Why do you ask such a different path? Well, I have a beautiful family that needs my support and has had my support over the years, and I want to position myself with a sound career, something I can grow and continue nurturing my curiosity. 
 
 Things are changing rapidly within this world, and it's powered through technology. At the time of writing this note alone, ```
 FANG companies represent 16.38% of the S&P 500 Index. Add in Microsoft and Apple it represents 21.38% ```
