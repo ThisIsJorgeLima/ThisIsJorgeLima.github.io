@@ -260,13 +260,23 @@ Github: ThisIsJorgeLima
 **Resources:**
 
 [MovieLens Latest Datasets:](https://grouplens.org/datasets/movielens/latest/)
+
 [k -nearest neighbors algorithm:](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
-[A Gentle Introduction to Sparse Matrices for Machine Learning:] (https://machinelearningmastery.com/sparse-matrices-for-machine-learning/)
-[Here’s How to Build a Pivot Table using Pandas in Python:] (https://www.analyticsvidhya.com/blog/2020/03/pivot-table-pandas-python/)
-[Building a movie recommendation system | K-Nearest Neighbors | Machine Learning] (https://www.youtube.com/watch?v=4Ws0oPH350U)
-[Machine Learning Basics with the K-Nearest Neighbors Algorithm] (https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
-[Collaborative filtering:] (https://en.wikipedia.org/wiki/Collaborative_filtering)
-[Prototyping a Recommender System Step by Step Part 1: KNN Item-Based Collaborative Filtering:] https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
-[Fuzzy String Matching in Python:] (https://www.datacamp.com/community/tutorials/fuzzy-string-python)
-[Reverse Mapping and Unflattening:] (https://docs.automapper.org/en/stable/Reverse-Mapping-and-Unflattening.html)
+
+[A Gentle Introduction to Sparse Matrices for Machine Learning:](https://machinelearningmastery.com/sparse-matrices-for-machine-learning/)
+
+[Here’s How to Build a Pivot Table using Pandas in Python:](https://www.analyticsvidhya.com/blog/2020/03/pivot-table-pandas-python/)
+
+[Building a movie recommendation system | K-Nearest Neighbors | Machine Learning](https://www.youtube.com/watch?v=4Ws0oPH350U)
+
+[Machine Learning Basics with the K-Nearest Neighbors Algorithm](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
+
+[Collaborative filtering:](https://en.wikipedia.org/wiki/Collaborative_filtering)
+
+[Prototyping a Recommender System Step by Step Part 1: KNN Item-Based Collaborative Filtering:](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
+
+[Fuzzy String Matching in Python:](https://www.datacamp.com/community/tutorials/fuzzy-string-python)
+
+[Reverse Mapping and Unflattening:](https://docs.automapper.org/en/stable/Reverse-Mapping-and-Unflattening.html)
+
 [Comprehensive Guide to building a Recommendation Engine from scratch (in Python)](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/?#)
