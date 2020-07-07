@@ -20,7 +20,7 @@ url: "https://ThisIsJorgeLima.com"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "home"
+  Home: ""
   Podcast: "https://mailchi.mp/db9640dec7a5/a-month-of-saturdays"
   # Resources:
    # - Podcast: "https://mailchi.mp/db9640dec7a5/a-month-of-saturdays"
