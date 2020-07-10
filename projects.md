@@ -55,7 +55,7 @@ I will be away until Feb 6, with very limited time to work. My responses will be
 
 
 <p>You can <a href="mailto:jorgelima@gmx.us?subject=Hello from thisisjorgelima.com">email me</a> or find me <a href="https://twitter.com/thisisjorgelima">on Twitter</a> if you want to get in touch. Please don't hesitate to send a message!</p>
-<p>My fulltime job is consulting work in R and Shiny, so feel free to get in touch if you want to discuss potential projects, your Shiny needs, or need any paid help.</p>
+<p>Feel free to get in touch if you want to discuss potential projects, your needs, or need any paid help.</p>
 <p>If you'd like to set up a meeting with me, <a href="https://calendly.com/jorgelima">click here to schedule a meeting</a> based on your availability.</p>
 
 <!-- modify this form HTML and place wherever you want your form -->
@@ -76,7 +76,4 @@ I will be away until Feb 6, with very limited time to work. My responses will be
   <!-- your other form fields go here -->
 
   <button type="submit">Send</button>
-</form>
-  
-  <button type="submit" class="btn btn-lg btn-primary">Submit</button>
 </form>
