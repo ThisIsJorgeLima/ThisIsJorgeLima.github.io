@@ -28,7 +28,7 @@ I enjoy storytelling and have utilized my past experiences; one can view <a href
 <span class="fa fa-heart about-icon"></span>
 My wife and I have one child. I enjoy cooking recipies from
   <a href="https://www.chefsteps.com/"><strong>ChefSteps</strong></a>,   
-<strong>travelling</strong> at any given (and non-given) moment, a true film buff, and imagery enthusiast.
+<strong>travelling</strong> at any given moment, a true film buff, and imagery enthusiast.
 </p>
 
 <p class="about-text">
@@ -46,12 +46,6 @@ Grew up in <i>Baton Rouge, LA, El Salvador and Mexico City, CDMX, Mexico</i>; mo
 <div id="contactme-section">
 <h1 id="contact">Contact</h1>
 
-<!--
-<div class="alert alert-danger" role="alert">
-I will be away until Feb 6, with very limited time to work. My responses will be slow during this period.
-</div>
--->
-
 
 <p>You can <a href="mailto:jorgelima@gmx.us?subject=Hello from thisisjorgelima.com">email me</a> or find me <a href="https://twitter.com/thisisjorgelima">on Twitter</a> if you want to get in touch. Please don't hesitate to send a message!</p>
 <p>Feel free to get in touch if you want to discuss potential projects, your needs, or need any paid help.</p>
@@ -59,20 +53,19 @@ I will be away until Feb 6, with very limited time to work. My responses will be
 
 <!-- modify this form HTML and place wherever you want your form -->
 
-<form
-  action="https://formspree.io/mrgyywpp"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="text" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
 
-  <!-- your other form fields go here -->
-
-  <button type="submit">Send</button>
-</form>
+<form action="https://formspree.io/mrgyywpp
+" method="POST" class="form" id="contact-form">
+  <p>You can also send me a quick message using the form below:</p>
+  <div class="row">
+    <div class="col-xs-6">
+      <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
+    </div>
+    <div class="col-xs-6">
+      <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name">
+    </div>
+  </div>
+  <input type="hidden" name="_subject" value="New submission from thisisjorgelima.com">
+  <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
+  <input type="text" name="_gotcha" style="display:none">
+  <input type="hidden" name="_next" value="?message=Your message was sent successfully, thanks!" />
