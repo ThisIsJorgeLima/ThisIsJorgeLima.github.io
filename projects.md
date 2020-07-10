@@ -1,14 +1,13 @@
 ---
 layout: page
 title: Projects
-subtitle: "Or: why you'd want to go on a date with me"
 css: "/css/aboutme.css"
 ---
 
 <div id="aboutme-section">
 
 <p class="about-text">
-<span class="fa fa-code about-icon"></span>
+<span class="fa fa-code about-icon"></span> Currently an
 <strong> ML Engineering, AI & Data Science</strong>: student at <a href="https://lambdaschool.com/"><strong>Lambda School</strong></a>. Previoysly B2C Growth & Storytelling <a href="https://www.imdb.com/name/nm3147857/?ref_=fn_al_nm_2"><strong>Motion Picture</strong></a>  
 &
 <a href="https://jorgelima.photoshelter.com/index"><strong>Still Photography</strong></a>  
