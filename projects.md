@@ -1,48 +1,34 @@
 ---
 layout: page
-title: Projects
+title: About Me
 css: "/css/aboutme.css"
 ---
 
 <div id="aboutme-section">
 
 <p class="about-text">
-<span class="fa fa-code about-icon"></span> Currently an
+<span class="fa fa-database"></span> Currently an
 <strong> ML Engineering, AI & Data Science</strong>: student at <a href="https://lambdaschool.com/"><strong>Lambda School</strong></a>. Previoysly B2C Growth & Storytelling <a href="https://www.imdb.com/name/nm3147857/?ref_=fn_al_nm_2"><strong>Motion Picture</strong></a>  
 &
 <a href="https://jorgelima.photoshelter.com/index"><strong>Still Photography</strong></a>  
   
-  
-  
-
-
-  
-  
-Currently an <a href="/shiny"><strong>R-Shiny consultant</strong></a>. Previously worked as a <strong>software engineer</strong> (Google, IBM, <a href="https://tagged.com" target="_blank">Tagged.com</a>) and <strong>web
-developer</strong> in tiny startups (<a href="https://wish.com" target="_blank">Wish.com</a>,
-<a href="https://web.archive.org/web/20121223025414/https://www.makeupbee.com/looks.php" target="_blank">MakeupBee.com</a>,
-<a href="http://glittr.com" target="_blank">glittr.com</a>,
-<a href="https://web.archive.org/web/20120309093005/https://www.jauntr.com/" target="_blank">jauntr.com</a>).
-</p>
-
+ 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-Obtained my MSc in <strong>Bioinformatics</strong> from the University of British Columbia (supervised by the amazing
-<a href="https://twitter.com/JennyBryan" target="_blank">Jenny Bryan</a>) and my Bachelor of <strong>Computer Science</strong> from the
-University of Waterloo, Canada. My masters thesis project involved
-<a href="https://github.com/daattali/ddpcr" target="_blank">developing computational methods to automatically analyze
-droplet digital PCR</a> data.
+Obtained my AAS, in <strong> Motion Pictures and Television</strong> from the Full Sail University  and studied <strong> Business Communications </strong> at Suffolk University in Boston, Massachusetts. Earned course credit at Sawyer Business School.
+
 </p>
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I enjoy writing <strong>useful & reusable software tools</strong> to help others &mdash; check out <a href="/projects">my projects</a>. In the past several years I've become an experienced R useR and an expert in R-Shiny.
+I enjoy storytelling and have utilized my past experiences; one can view <a href="/projects">my projects</a>. In nine months, I have become a full-stack, Data Scientist, and Engineer, which I learned statistics, Python, machine learning, and how to get insight from data at scale.
 </p>
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-I'm addicted to soccer, <strong>travelling</strong> at any given (and non-given) moment, getting into philosophical debates,
-and meeting new people :) 
+My wife and I have one child. I enjoy cooking recipies from
+  <a href="https://www.chefsteps.com/"><strong>ChefSteps</strong></a>,   
+<strong>travelling</strong> at any given (and non-given) moment, a true film buff, and imagery enthusiast.
 </p>
 
 <p class="about-text">
@@ -52,10 +38,8 @@ The <strong><a href="/projects">projects</a></strong> page is a nice place to se
 
 <p class="about-text">
 <span class="fa fa-globe about-icon"></span>
-Grew up in <i>Tel Aviv, Israel</i>; moved to <i>Toronto, Canada</i> during my teens; worked in <i>San Francisco</i> after undergrad; crossed the border again to <i>Vancouver, Canada</i> for grad school; spent many months in other countries backpacking; returned to <i>Toronto</i> in 2017.
+Grew up in <i>Baton Rouge, LA, El Salvador and Mexico City, CDMX, Mexico</i>; moved to <i>Wellington, Florida</i> during my teens; worked as a freelancer in <i>Miami, Paris, Italy, Antwerp, Hong Kong, Shanghai, and Dallas;</i> returned to >USA</i> in 2014. 
 </p>
-
-<p>I also have <a href="https://deanat78.wordpress.com/">an old blog</a>, mostly from high school and some old travelling trips, that I'll leave here just because I want to have a reference to it somewhere.</p>
 
 </div>
 
@@ -70,9 +54,9 @@ I will be away until Feb 6, with very limited time to work. My responses will be
 
 
 
-<p>You can <a href="mailto:dean@attalitech.com?subject=Hello from deanattali.com">email me</a> or find me <a href="https://twitter.com/daattali">on Twitter</a> if you want to get in touch. As I said, I love meeting new people so don't hesitate to send a message!</p>
+<p>You can <a href="mailto:jorgelima@gmx.us?subject=Hello from thisisjorgelima.com">email me</a> or find me <a href="https://twitter.com/thisisjorgelima">on Twitter</a> if you want to get in touch. Please don't hesitate to send a message!</p>
 <p>My fulltime job is consulting work in R and Shiny, so feel free to get in touch if you want to discuss potential projects, your Shiny needs, or need any paid help.</p>
-<p>If you'd like to set up a meeting with me, <a href="https://calendly.com/attalitech/meeting">click here to schedule a meeting</a> based on your availability.</p>
+<p>If you'd like to set up a meeting with me, <a href="https://calendly.com/jorgelima">click here to schedule a meeting</a> based on your availability.</p>
 
 <form action="https://formspree.io/dean@attalitech.com" method="POST" class="form" id="contact-form">
   <p>You can also send me a quick message using the form below:</p>
